@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "eastv": {
+      "title": "EasTV Agent Bridge",
+      "description": "Connect external AI agents to the EasTV canvas through stdio MCP.",
+      "command": "node",
+      "args": [
+        "./scripts/start-mcp.mjs"
+      ],
+      "cwd": "."
+    }
+  }
+}

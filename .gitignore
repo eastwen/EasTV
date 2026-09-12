@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+/canvas/
+/output/
+/release/
+/public/downloads/
+.eastv-dev.*.log
+.codex-plugin/analytics.local.json
